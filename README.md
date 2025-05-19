@@ -142,6 +142,6 @@
   <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
 </div>
-<p>He don't click 👆🏼 these , it wont work 🥲.</p>
+<p>Hey don't click on 👆🏼 these , it wont work 🥲. Yet to add href....</p>
 
 ###
