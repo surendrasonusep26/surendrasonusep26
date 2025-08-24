@@ -13,7 +13,7 @@ I am a Computer Science Engineering student with an interest in cybersecurity. I
 
 ## 📈 GitHub Stats
 
-![Surendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendra-26pop&show_icons=true&theme=radical)
+![Surendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendra26-chick&show_icons=true&theme=radical)
 
 ---
 
