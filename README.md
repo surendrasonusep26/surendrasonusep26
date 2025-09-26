@@ -16,7 +16,7 @@ I am a Computer Science Engineering student with an interest in cybersecurity. I
 ![Surendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendrasonusep26&show_icons=true&theme=dark)
 
 ---
+**surendra-26pop/surendra-26pop** is a ✨ special ✨ repository because i
 
-<!--
-**surendra-26pop/surendra-26pop** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--ts `README.md` (this file) appears on your GitHub profile.
 -->
