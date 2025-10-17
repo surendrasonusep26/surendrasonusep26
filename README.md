@@ -68,7 +68,8 @@ class CyberSecuritySpecialist:
 ## 🎮 Discord Presence
 
 <div align="center">
-  <p align="center"><a href="https://discordapp.com/users/1184058565942583319"><img align = "center" src="https://lanyard.cnrad.dev/api/1184058565942583319" alt="Currently Playing on Spotify"></a></p>
+  <p align="center"><a href="https://discord.com/users/1184058565942583319"><img src="https://lanyard.cnrad.dev/api/1184058565942583319?showDisplayName=true&idleMessage=%F0%9F%92%8B&bg=16002a" /></a></p>
+   
 </div>
 
 ---
