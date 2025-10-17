@@ -65,20 +65,10 @@ class CyberSecuritySpecialist:
 
 ---
 
-## ⏱️ Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=surendrasonusep26&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&layout=compact" alt="Wakatime Stats" />
-</div>
-
----
-
 ## 🎮 Discord Presence
 
 <div align="center">
-  <a href="https://discordapp.com/users/1184058565942583319">
-    <img src="https://lanyard.cnrad.dev/api/1184058565942583319?theme=dark&bg=0d1117&borderRadius=10px&animated=true" alt="Discord Presence">
-  </a>
+  <p align="center"><a href="https://discordapp.com/users/1184058565942583319"><img align = "center" src="https://lanyard.cnrad.dev/api/1184058565942583319" alt="Currently Playing on Spotify"></a></p>
 </div>
 
 ---
