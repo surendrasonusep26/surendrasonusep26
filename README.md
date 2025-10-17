@@ -68,7 +68,7 @@ class CyberSecuritySpecialist:
 ## 🎮 Discord Presence
 
 <div align="center">
-  <p align="center"><a href="https://discord.com/users/1184058565942583319"><img src="https://lanyard.cnrad.dev/api/1184058565942583319?showDisplayName=true&idleMessage=%F0%9F%92%8B&bg=16002a" /></a></p>
+  <p align="center"><a href="https://discord.com/users/1184058565942583319"><img src="https://lanyard.cnrad.dev/api/1184058565942583319?showDisplayName=true&idleMessage=IF%20ur%20seeing%20this%20%2C%20can%20we%20talk%20%F0%9F%A5%BA%20%3F%3F&bg=16002a" /></a></p>
    
 </div>
 
